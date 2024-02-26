@@ -17,6 +17,3 @@ Here are some of the projects I've worked on:
 - Email: muthuprakashmanickam95@gmail.com
 
 Feel free to reach out to me for collaborations or if you have any questions about my projects.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
