@@ -8,9 +8,9 @@ I'm a passionate full-stack developer with expertise in Python, HTML, CSS, JavaS
 - **Backend:** Python, Django
 - **Database:** MySQL
 
-## Projects
-Here are some of the projects I've worked on:
-**1. Multiple Disease prediction using machine learning algorithms** - In the "Multiple Disease Prediction using Machine Learning Algorithms" project, we aimed to develop a predictive model that can accurately diagnose multiple diseases based on a set of symptoms and patient data.
+## Project
+Here is the project I've worked on:
+**Multiple Disease prediction using machine learning algorithms** - In the "Multiple Disease Prediction using Machine Learning Algorithms" project, we aimed to develop a predictive model that can accurately diagnose multiple diseases based on a set of symptoms and patient data.
 
 ## Get in Touch
 - LinkedIn: (https://www.linkedin.com/in/muthu-prakash-manickam-g-809398243)
