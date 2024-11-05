@@ -1,11 +1,11 @@
-# Welcome to My GitHub Profile! 👋
+## 👋 Hi, I'm Muthu Prakash
 
 ## About Me
-I'm a passionate full-stack developer with expertise in Python, HTML, CSS, JavaScript, React.js, MySQL, and Django. I love building robust and user-friendly web applications that solve real-world problems.
+I'm a passionate full-stack developer with expertise in Python, Java, HTML, CSS, JavaScript, SQL, React.js, MySQL, and Django. I love building robust and user-friendly web applications that solve real-world problems.
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Python, Django
+- **Backend:** Python, Java, Django, SQL
 - **Database:** MySQL
 
 ## Project
